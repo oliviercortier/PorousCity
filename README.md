@@ -1,2 +1,2 @@
 # PorousCity
-Netlogo model. modeling permeable pavement impacts in urban area
+Netlogo model. Modeling permeable pavement impacts in urban area
